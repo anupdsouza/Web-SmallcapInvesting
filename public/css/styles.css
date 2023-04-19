@@ -22,7 +22,7 @@ body {
   100% { opacity: 1.0; }
 }
 
-.loader  {
+.loading-animation  {
   width: 10px;
   height: 10px;
   border-radius: 10px;
